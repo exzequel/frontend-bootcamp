@@ -20,3 +20,8 @@ const result = myObj.prop2 === (myArray[0] / myArray[2]); // true
 // myArray[2] is 2
 // myArray[0] / myArray[2] is 20
 // 20 === 20 is true
+
+const resultBreakdown = 20 === (40 / 2); // same as result
+
+console.log(result);
+console.log(resultBreakdown);
