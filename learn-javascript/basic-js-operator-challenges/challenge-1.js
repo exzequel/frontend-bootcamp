@@ -18,3 +18,6 @@ numberVariable++;
 numberVariable++;
 
 console.log(numberVariable); // will output 3
+
+// EXPLANATION:
+// since ++ increments the value of the numberVariable we have to change const to let
