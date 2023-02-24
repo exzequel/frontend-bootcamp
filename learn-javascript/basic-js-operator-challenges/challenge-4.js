@@ -10,3 +10,6 @@ const myObj = {
 const myArray = [40, 50, 2];
 
 const result = myObj.prop2 === (myArray[0] / myArray[2]);
+
+// ANSWER:
+// result will evaluate to true
