@@ -13,6 +13,6 @@ console.log(expression5);
 // SOLUTION: 
 const result = !(((100 % 50) < (100/50)) && 300 + 5 === 305); // break down code into smaller chunks
 
-console.log(result);
+console.log(result); // evaluates to false, same as expression5
 
 
