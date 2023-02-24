@@ -3,4 +3,6 @@
 // ORIGINAL CODE:
 // const myArray = [20, 30, 40];
 
-console.log(myArray[3]);
+const myArray = [20, 30, 40];
+
+console.log(myArray[2]);
