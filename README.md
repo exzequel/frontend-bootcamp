@@ -71,6 +71,34 @@ startingNumber--; // substract one to value of variable;
 
 ```
 
+### JS ASSIGNMENT OPERATOR
+```js
+
+// JS Assignment Operator (= += -= *= /=)
+
+// (=)
+let x = 10; // assign value to the right of equal sign
+> 10
+// (+=)
+let x = 10;
+x += 5; // adds 5 to the value of the variable
+> 15
+// (-=)
+let x = 10;
+x -= 5; // subtracts 5 to the value of the variable
+> 5
+// (*=)
+let x = 10;
+x *= 5; // multiplies 5 to the value of the variable
+> 50
+// (/=)
+let x = 10;
+x /= 5; // divides 5 to the value of the variable
+> 2
+
+```
+
+
 
 
 
