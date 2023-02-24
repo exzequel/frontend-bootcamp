@@ -1,4 +1,4 @@
-// CHALLENGE 3
+// Challenge 3
 // What do 'resultVariable' equal? What data type is it?
 
 const variable1 = 20;

@@ -1,5 +1,4 @@
 // Challenge 1
-
 // 1 create boolean with value of 'true'
 const myBoolean = true;
 myBoolean;
