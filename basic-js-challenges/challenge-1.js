@@ -39,3 +39,14 @@ console.log(myObject.sumProperty);
 // 10 print value of index 1 of first property
 console.log(myObject.firstProperty[1]);
 
+// Alternate solution (from original source)
+
+// 9
+const sumProp = myObject.sumProperty;
+console.log(sumProp);
+
+// 10
+const firstProp = myObject.firstProperty;
+const arrayValue = firstProp[1];
+console.log(arrayValue);
+
