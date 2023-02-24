@@ -16,3 +16,10 @@ const myObj = {
 const myArray = [myObj.nestedObject1, myObj.nestedObject2];
 
 const result = (myArray[0].price * myArray[0].quantity) > (myArray[1].price * myArray[1].quantity); 
+
+// SOLUTION
+
+const resultBreakdown = (100 * 5) > (150 * 2);
+
+console.log(resultBreakdown);
+console.log(result);
