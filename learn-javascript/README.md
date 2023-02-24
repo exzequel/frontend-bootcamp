@@ -125,3 +125,31 @@ stringValue === numValue; // cares about data type
 // !== (strictly equal)
 
 ```
+
+### JS LOGICAL OPERATORS
+```js
+
+// Logical Operators && || !
+
+// && (and logical operator)
+// evaluates true if both values are true
+20 === 20 && 10 === 10 
+> true
+20 === 20 && 10 === 12
+> false
+
+// || (or logical operator)
+// evaluates true if either values are true
+20 === 20 || 10 === 12
+> true
+> 20 === 18 || 10 === 12
+> false
+
+// ! (not logical operator)
+// reverses everything, different from != and !== comparison operators
+20 === 20
+> true
+!(20 === 20) // (!) exclamation point must be declared at the front
+> false
+
+```
