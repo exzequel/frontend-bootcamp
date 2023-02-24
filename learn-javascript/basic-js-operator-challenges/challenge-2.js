@@ -1,3 +1,4 @@
+// Challenge 2
 // Do the following two blocks of code result in the same answer? If not, which one would you recommend using and why?
 
 // Snippet 1
