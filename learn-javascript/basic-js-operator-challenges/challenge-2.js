@@ -16,8 +16,11 @@ const result1 = firstNumber1 == secondNumber1; // normal equality test, converts
 
 console.log(result1); // will output true
 
-// ANSWER:
+// ANSWER
 // The two snippets would have different answers since they used different comparsion operators.
 // It is recommended to use the strict equality operator (===) instead of the normal equality operator (==),
 // because it will the normal equality operator will try to match different data types, instead of leaving things as is
+
+// ALTERNATE ANSWER (FROM MAIN SOURCE)
+// Which one is better? Well that's a bit of a trick question. When looking at this code, there is no reason why secondNumber should be a string data type.
 
