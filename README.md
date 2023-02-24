@@ -38,5 +38,40 @@ const myObj = {
 }; // semi-colon to end code;
 
 ```
+## JAVASCRIPT OPERATORS
+
+### JS ARITHMETIC OPERATOR
+```js
+
+// JS Arithmetic operators
+
+// Add
+1 + 1
+// Subtract
+4 - 2
+// Multiply
+6 * 9
+// Divide
+64 / 6
+
+// Modulo
+100 % 50 // similar to a remainder
+> 0
+
+// Exponent
+8**2
+
+// Increment
+let startingNumber = 0;
+startingNumber++; // add one to value of variable;
+
+// Decrement
+let startingNumber = 0;
+startingNumber--; // substract one to value of variable;
+
+```
+
+
+
 
 
