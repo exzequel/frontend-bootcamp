@@ -14,3 +14,6 @@ const objectVariable = {
 };
 
 console.log(objectVariable.property3[2]);
+
+// EXPLANATION:
+// use comma instead of semi-colon when separating objects
